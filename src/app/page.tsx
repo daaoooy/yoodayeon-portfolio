@@ -13,14 +13,14 @@ export default function Home() {
             Portfolio in Progress..
           </h1>
 
-          <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400 px-2">
+          <p className="px-2 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
             안녕하세요! <br />
             취업을 준비하며 꾸준히 공부 중인 개발자{' '}
             <span className="font-semibold text-zinc-900 dark:text-zinc-200">
-              '유다연'
+              {"'유다연'"}
             </span>{' '}
             입니다.
-            <span className="block mt-4">
+            <span className="mt-4 block">
               <span className="font-semibold text-zinc-900 dark:text-zinc-200">
                 저
               </span>
