@@ -11,8 +11,8 @@
 
 <!-- 연결된 이슈 번호 -->
 
-Closes #
-Related to #
+- Closes #
+- Related to #
 
 <br/>
 
